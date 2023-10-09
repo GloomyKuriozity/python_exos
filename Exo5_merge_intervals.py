@@ -1,6 +1,6 @@
 """
 PROGRAM NAME - merge_intervals
-PROGRAMMER - Kuriozity
+PROGRAMMER - Mélanie Geulin (melanie.geulin@gmail.com)
 LANGUAGE - Python 
 SYSTEM - Windows 11
 DATE - Completed 03/08/2023
