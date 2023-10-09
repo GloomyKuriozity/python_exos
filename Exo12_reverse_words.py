@@ -1,6 +1,6 @@
 """
 PROGRAM NAME - reverse_words
-PROGRAMMER - Kuriozity
+PROGRAMMER - Mélanie Geulin (melanie.geulin@gmail.com)
 LANGUAGE - Python (no add-on libraries)
 SYSTEM - Windows 11
 DATE - Completed 20/06/2023
