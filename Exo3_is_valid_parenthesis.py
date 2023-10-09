@@ -1,6 +1,6 @@
 """
 PROGRAM NAME - is_valid_parentheses
-PROGRAMMER - Kuriozity
+PROGRAMMER - Mélanie Geulin (melanie.geulin@gmail.com)
 LANGUAGE - Python 
 SYSTEM - Windows 11
 DATE - Completed 10/08/2023
