@@ -1,6 +1,6 @@
 """
 PROGRAM NAME - checker_prime_numbers
-PROGRAMMER - Kuriozity
+PROGRAMMER - Mélanie Geulin (melanie.geulin@gmail.com)
 LANGUAGE - Python + [math]
 SYSTEM - Windows 11
 DATE - Completed 20/06/2023
