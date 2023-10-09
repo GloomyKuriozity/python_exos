@@ -1,6 +1,6 @@
 """
 PROGRAM NAME - check_anagrams
-PROGRAMMER - Kuriozity
+PROGRAMMER - Mélanie Geulin (melanie.geulin@gmail.com)
 LANGUAGE - Python 
 SYSTEM - Windows 11
 DATE - Completed 21/06/2023
