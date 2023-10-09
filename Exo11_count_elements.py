@@ -1,6 +1,6 @@
 """
 PROGRAM NAME - count_elements
-PROGRAMMER - Kuriozity
+PROGRAMMER - Mélanie Geulin (melanie.geulin@gmail.com)
 LANGUAGE - Python + collections
 SYSTEM - Windows 11
 DATE - Completed 20/06/2023
