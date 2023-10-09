@@ -1,6 +1,6 @@
 """
 PROGRAM NAME - longest_substring
-PROGRAMMER - Kuriozity
+PROGRAMMER - Mélanie Geulin (melanie.geulin@gmail.com)
 LANGUAGE - Python 
 SYSTEM - Windows 11
 DATE - Completed 08/08/2023
