@@ -1,6 +1,6 @@
 """
 PROGRAM NAME - transpose_matrix
-PROGRAMMER - Kuriozity
+PROGRAMMER - Mélanie Geulin (melanie.geulin@gmail.com)
 LANGUAGE - Python + numpy
 SYSTEM - Windows 11
 DATE - Completed 21/06/2023
